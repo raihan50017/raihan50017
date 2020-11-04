@@ -38,7 +38,7 @@
 <a href="https://www.linkedin.com/in/programmer-raihan/" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/abu.raihan.9619/" target="_blank">
+<a href="https://www.facebook.com/programmer.abu.raihan/" target="_blank">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="" target="_blank">
