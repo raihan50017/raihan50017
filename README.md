@@ -32,8 +32,6 @@
 </br></br></br>
 <img align="center" width="550px" alt="Abu Raihan Github"  src="https://github-readme-stats.vercel.app/api?username=raihan50017&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=raihan50017&layout=compact)](https://github.com/raihan50017)
-
 <h2>Reach Me 🌍</h2>
 <a href="https://www.linkedin.com/in/programmer-raihan/" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
