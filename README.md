@@ -29,8 +29,6 @@
 <img alt="MySQL" height="35px" src="https://i.ibb.co/jkXdggM/mysql.png"/>
 <img alt="MongoDB" height="30px" src="https://i.ibb.co/WWPpgk6/mong.png"/>
 </p>
-</br></br></br>
-<img align="center" width="550px" alt="Abu Raihan Github"  src="https://github-readme-stats.vercel.app/api?username=raihan50017&show_icons=true"/>
 
 <h2>Reach Me 🌍</h2>
 <a href="https://www.linkedin.com/in/programmer-raihan/" target="_blank">
