@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md.Aburayhan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<p>A skilled web developer with a background in Computer Science and Engineering. With extensive experience in web development and a knack for problem-solving showcased through numerous LeetCode challenges, I bring a passion for crafting seamless digital experiences. Beyond the web, I've ventured into machine learning, contributing to innovative projects. Join me as I navigate the dynamic world of technology, driven by precision coding and a creative problem-solving mindset.</p>
+<p align="justify">A skilled web developer with a background in Computer Science and Engineering. With extensive experience in web development and a knack for problem-solving showcased through numerous LeetCode challenges, I bring a passion for crafting seamless digital experiences. Beyond the web, I've ventured into machine learning, contributing to innovative projects. Join me as I navigate the dynamic world of technology, driven by precision coding and a creative problem-solving mindset.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
